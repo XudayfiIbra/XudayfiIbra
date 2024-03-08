@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [www.github/Xudayfiibra](www.github/Xudayfiibra) 
 
-- 💬 Ask me about **Fulstack development** 
+- 💬 Ask me about **Fullstack development** 
 
 - 📫 How to reach me **xudayfiibraahim8@gmail.com** 
 
