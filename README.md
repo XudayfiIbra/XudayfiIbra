@@ -3,9 +3,7 @@
 <h1 align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Hudayfi+Ibraahim!;" />
 </h1>
-<code align='center'>20 years old full-stack developer
- with 1+ year experience in
- different kinds of development.</code>
+<h1> Full stack developer</h1>
 </p>
 <p>
  <a href='mailto:xudayfiibraahim8@gmail.com'>🔗 xudayfiibraahim8@gmail.com</a> </br>
