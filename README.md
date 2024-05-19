@@ -2,7 +2,7 @@
 
 
 <p><strong>A Full-stack developer </strong>with Python and Javascript. <br>Proficient in both front-end and back-end development <br>along with Mobile development with Flutter.</p>
-🔭 I’m currently learning <strong>Cyber Security</strong><br>💬 Ask me about <strong>Full-stack development and Mobile App</strong>.
+🔭 I’m currently learning <strong>Cyber Security</strong><br>💬 Ask me about <strong>Full-stack development and Mobile App.</strong>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/xudayfiIbra)
