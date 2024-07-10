@@ -12,6 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/caaqil_bl/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/XudayfiBaari) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://xudayfi.netlify.app) 
+[![Monkeytype](https://img.shields.io/badge/Typing-%231DA1F2.svg?logo=Portfolio&logoColor=white)](https://monkeytype.com/profile/xudayfi) 
+
 
 # ⚒️ Tools and Frameworks:
 <img src="https://skillicons.dev/icons?i=python,django,react,typescript,bootstrap,tailwindcss,html,css,vscode,github,figma,git" />
